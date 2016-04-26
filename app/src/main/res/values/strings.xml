@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZeroFill</string>
+    <string name="action_settings">Settings</string>
+    <string name="free_space">Free Space :  </string>
+    <string name="mb">MB</string>
+    <string name="filling">Filling empty space</string>
+    <string name="cleaning">Cleaning the filled data</string>
+    <string name="waiting">Waiting to start</string>
+    <string name="finished">Finished filling empty space</string>
+</resources>
